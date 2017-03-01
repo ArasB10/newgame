@@ -8,7 +8,7 @@ function setup() {
 }
 
 function draw() {
-  background(200);	
+  background(11,31,55);	
   //animation(ninja, 300, 100);  
   drawSprites();
 }
